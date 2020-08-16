@@ -1,0 +1,27 @@
+//
+
+@font-face {
+	font-family: "TopazPlus";
+	src: url("data/topaz.eot");
+}
+@font-face {
+	font-family: "TopazPlus";
+	src: url("data/topaz.ttf");
+}
+
+body,pre {
+	color:#000;
+	background:#adaaad;
+	font-family:"TopazPlus","Lucida Console",monospace,Monaco;
+	font-size: 100%;
+}
+#container {
+	margin:20px auto;
+	overflow:hidden;
+	width:33em;
+}
+
+#content {
+	text-align: center;
+	width:100%;
+}	
